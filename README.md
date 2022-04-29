@@ -1,6 +1,6 @@
 # Spotify
 
-Projet en groupe de 3, à réaliser en 2 jours, l'objectif était de créer un site de musique à la spotify en ReactJS. Projet réalisé pendant un rush d'un week-end. Il devait être le plus ressemblant possible en termes de fonctionnalités à Spotify. Backend réalisé en PHP avec composer.
+Projet en groupe de 3, à réaliser en 2 jours, l'objectif était de créer un site de musique à la spotify en ReactJS. Projet réalisé pendant un rush d'un week-end. Il devait être le plus ressemblant possible en termes de fonctionnalités à Spotify. Backend réalisé en PHP avec Klein.
 
 # Getting Started with Create React App
 
